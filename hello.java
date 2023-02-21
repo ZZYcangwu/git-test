@@ -3,7 +3,9 @@ public class{
 		int i = 1;
 		int b = 2;
 		int c = 3;
-		int d = 5;
+
+		int d = 4;
+
 		System.out.println("hello word");
 		System.out.println("1111");
 	}
